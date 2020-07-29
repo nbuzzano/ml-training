@@ -1,0 +1,3 @@
+## won't push following extensions
+*.ipynb_checkpoints
+*.pyc
